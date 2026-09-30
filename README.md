@@ -2,6 +2,8 @@
 
 Ever have your desktop icons rearrange themselves on their own? It's frustrating, and getting everything back where it was can eat up more time than it should. That's where this app comes in: save the exact layout once, and restore it with a single click whenever it gets scrambled again — across single or multiple monitors, even when your display setup changes — plus a handful of everyday desktop housekeeping tools.
 
+📥 Download: Grab the latest installer from the Releases panel on the right to get a full local version.
+
 ## Features
 
 - 💾 **Save & Restore Layouts** — capture the exact position of every desktop icon and bring it back with one click, even after a monitor's unplugged or your resolution changes.
